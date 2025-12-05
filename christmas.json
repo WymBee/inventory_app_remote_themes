@@ -11,18 +11,18 @@
     "black": "#000000",
     
     "themeMain": "#D32F2F",
-    "themeAlternate": "#388E3C",
-    "themeBright": "#FF9800",
-    "themeDark": "#5D4037",
+    "themeAlternate": "#FF9800",
+    "themeBright": "#388E3C",
+    "themeDark": "#4F2A1F",
     
-    "lightBackground": "#FFF3E0",
-    "darkBackground": "#263238",
+    "lightBackground": "#E0E0E0",
+    "darkBackground": "#303030",
     
-    "lightText": "#5D4037",
+    "lightText": "#303030",
     "darkText": "#FFFFFF",
     
-    "success": "#4CAF50",
-    "failure": "#F44336"
+    "success": "#05E723",
+    "failure": "#D40303"
   },
   "additional_notes": "Christmas theme with red/green colors and warm backgrounds"
 }
