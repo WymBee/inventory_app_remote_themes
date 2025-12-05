@@ -1,0 +1,28 @@
+{
+  "theme_name": "Holiday 2025",
+  "version": "1.0.0",
+  "description": "Festive Christmas theme with warm colors",
+  "created_at": "2025-11-15T00:00:00Z",
+  "valid_from": "2025-12-01T00:00:00Z",
+  "valid_until": "2025-12-31T23:59:59Z",
+  "is_seasonal": true,
+  "colors": {
+    "white": "#FFFFFF",
+    "black": "#000000",
+    
+    "themeMain": "#D32F2F",
+    "themeAlternate": "#388E3C",
+    "themeBright": "#FF9800",
+    "themeDark": "#5D4037",
+    
+    "lightBackground": "#FFF3E0",
+    "darkBackground": "#263238",
+    
+    "lightText": "#5D4037",
+    "darkText": "#FFFFFF",
+    
+    "success": "#4CAF50",
+    "failure": "#F44336"
+  },
+  "additional_notes": "Christmas theme with red/green colors and warm backgrounds"
+}
