@@ -1,17 +1,17 @@
 {
   "theme_name": "Default Theme",
   "version": "1.0.0",
-  "description": "Default Abunwasi color scheme",
+  "description": "Default App color scheme",
   "created_at": "2025-01-01T00:00:00Z",
   "is_active": true,
   "colors": {
     "white": "#FFFFFF",
     "black": "#000000",
     
-    "themeMain": "#2285D6",
-    "themeAlternate": "#22A3D6",
-    "themeBright": "#008CFF",
-    "themeDark": "#1F425F",
+    "themeMain": "#FF5722",
+    "themeAlternate": "#9C27B0",
+    "themeBright": "#FF9800",
+    "themeDark": "#4A148C",
     
     "lightBackground": "#E0E0E0",
     "darkBackground": "#303030",
