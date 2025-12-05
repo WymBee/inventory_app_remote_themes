@@ -8,10 +8,10 @@
     "white": "#FFFFFF",
     "black": "#000000",
     
-    "themeMain": "#FF5722",
-    "themeAlternate": "#9C27B0",
-    "themeBright": "#FF9800",
-    "themeDark": "#4A148C",
+    "themeMain": "#2285D6",
+    "themeAlternate": "#22A3D6",
+    "themeBright": "#008CFF",
+    "themeDark": "#1F425F",
     
     "lightBackground": "#E0E0E0",
     "darkBackground": "#303030",
