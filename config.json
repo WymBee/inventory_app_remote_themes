@@ -1,0 +1,70 @@
+{
+  "config_version": "1.0.0",
+  "last_updated": "2025-01-01T00:00:00Z",
+  "active_theme": "current.json",
+  "available_themes": [
+    {
+      "id": "default",
+      "name": "Default Theme",
+      "file": "current.json",
+      "description": "Standard App colors",
+      "is_seasonal": false,
+      "is_default": true
+    },
+    {
+      "id": "christmas_2025",
+      "name": "Christmas 2025",
+      "file": "christmas.json",
+      "description": "Christmas theme",
+      "is_seasonal": true,
+      "valid_from": "2025-12-01T00:00:00Z",
+      "valid_until": "2025-12-31T23:59:59Z"
+    },
+    {
+      "id": "halloween_2026",
+      "name": "Halloween 2026",
+      "file": "halloween.json",
+      "description": "Spooky Halloween theme",
+      "is_seasonal": true,
+      "valid_from": "2025-10-01T00:00:00Z",
+      "valid_until": "2025-10-31T23:59:59Z"
+    },
+    {
+      "id": "dark_enhanced",
+      "name": "Enhanced Dark",
+      "file": "dark_mode_enhanced.json",
+      "description": "Better dark mode contrast",
+      "is_seasonal": false,
+      "is_always_available": true
+    }
+  ],
+  "update_settings": {
+    "check_interval_hours": 6,
+    "auto_apply_seasonal": true,
+    "require_wifi": false,
+    "cache_duration_hours": 24
+  },
+  "color_scheme_info": {
+    "supported_color_keys": [
+      "white",
+      "black",
+      "themeMain",
+      "themeAlternate",
+      "themeBright",
+      "themeDark",
+      "lightBackground",
+      "darkBackground",
+      "lightText",
+      "darkText",
+      "success",
+      "failure"
+    ],
+    "color_formats_supported": [
+      "hex (#RRGGBB or #RRGGBBAA)",
+      "rgba(r, g, b, a)",
+      "rgb(r, g, b)",
+      "named colors (red, blue, etc.)",
+      "ARGB integer"
+    ]
+  }
+}
