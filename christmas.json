@@ -3,26 +3,26 @@
   "version": "1.0.0",
   "description": "Festive Christmas theme with warm colors",
   "created_at": "2025-11-15T00:00:00Z",
-  "valid_from": "2026-12-01T00:00:00Z",
-  "valid_until": "2026-12-31T23:59:59Z",
+  "valid_from": "2025-12-01T00:00:00Z",
+  "valid_until": "2025-12-31T23:59:59Z",
   "is_seasonal": true,
   "colors": {
-    "white": "#FFFFFF",
-    "black": "#000000",
+    "white": [255, 255, 255],
+    "black": [0, 0, 0],
     
-    "themeMain": "#D32F2F",
-    "themeAlternate": "#FF9800",
-    "themeBright": "#388E3C",
-    "themeDark": "#4F2A1F",
+    "themeMain": [211, 47, 47],
+    "themeAlternate": [255, 152, 0],
+    "themeBright": [56, 142, 60],
+    "themeDark": [79, 42, 31],
     
-    "lightBackground": "#E0E0E0",
-    "darkBackground": "#303030",
+    "lightBackground": [224, 224, 224],
+    "darkBackground": [48, 48, 48],
     
-    "lightText": "#303030",
-    "darkText": "#FFFFFF",
+    "lightText": [48, 48, 48],
+    "darkText": [255, 255, 255],
     
-    "success": "#05E723",
-    "failure": "#D40303"
+    "success": [5, 231, 35],
+    "failure": [212, 3, 3]
   },
   "additional_notes": "Christmas theme with red/green colors and warm backgrounds"
 }
