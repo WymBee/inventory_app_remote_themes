@@ -24,5 +24,17 @@
     "success": [5, 231, 35],
     "failure": [212, 3, 3]
   },
+
+  "strings": {
+    "appTagline": "Merry Christmas! 🎄",
+    "welcomeMessage": "Season's greetings from all of us",
+    "dashboardGreeting": "Happy Holidays!",
+    "promotionalBanner": "Special Christmas Offers - Check Out Our Deals!",
+    "footerMessage": "Wishing you joy and prosperity this festive season",
+    "notificationTitle": "🎅 Christmas Special",
+    "buttonTextPrimary": "Celebrate Now",
+    "emptyStateMessage": "No items yet - Start your Christmas inventory!",
+    "successToast": "Ho ho ho! Changes saved successfully! 🎁"
+  },
   "additional_notes": "Christmas theme with red/green colors and warm backgrounds"
 }
