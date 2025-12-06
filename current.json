@@ -22,4 +22,16 @@
     "success": [5, 231, 35],
     "failure": [212, 3, 3]
   }
+  "strings": {
+    "appTagline": "Your Complete Business Management Solution",
+    "appPurposeLine": "Track Your Business Effortlessly",
+    "welcomeMessage": "Welcome",
+    "dashboardGreeting": "Hello!",
+    "promotionalBanner": "",
+    "footerMessage": "Manage your inventory efficiently",
+    "notificationTitle": "Notification",
+    "buttonTextPrimary": "Get Started",
+    "emptyStateMessage": "No items yet",
+    "successToast": "Changes saved successfully"
+  }
 }
