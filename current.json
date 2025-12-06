@@ -6,20 +6,20 @@
   "is_active": true,
   "colors": {
     "white": [255, 255, 255],
-    "black": "#FF000000",
+    "black": [0, 0, 0],
     
-    "themeMain": "#FF2285D6",
-    "themeAlternate": "#FF22A3D6",
-    "themeBright": "#FF008CFF",
-    "themeDark": "#FF1F425F",
+    "themeMain": [34, 133, 214],
+    "themeAlternate": [34, 163, 214],
+    "themeBright": [0, 140, 255],
+    "themeDark": [31, 66, 95],
     
-    "lightBackground": "#FFE0E0E0",
-    "darkBackground": "#FF303030",
+    "lightBackground": [224, 224, 224],
+    "darkBackground": [48, 48, 48],
     
-    "lightText": "#FF303030",
-    "darkText": "#FFFFFFFF",
+    "lightText": [48, 48, 48],
+    "darkText": [255, 255, 255],
     
-    "success": "#FF05E723",
-    "failure": "#FFD40303"
+    "success": [5, 231, 35],
+    "failure": [212, 3, 3]
   }
 }
