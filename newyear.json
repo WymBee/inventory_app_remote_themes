@@ -1,0 +1,36 @@
+{
+  "theme_name": "New Year",
+  "version": "1.0.0",
+  "description": "Celebrate the New Year with vibrant colors",
+  "created_at": "2025-12-20T00:00:00Z",
+  "valid_from": "2026-01-01T00:00:00Z",
+  "valid_until": "2026-01-07T23:59:59Z",
+  "is_seasonal": true,
+  
+  "colors": {
+    "white": [255, 255, 255],
+    "black": [0, 0, 0],
+    "themeMain": [255, 215, 0],
+    "themeAlternate": [138, 43, 226],
+    "themeBright": [255, 105, 180],
+    "themeDark": [25, 25, 112],
+    "lightBackground": [224, 224, 224],
+    "darkBackground": [48, 48, 48],
+    "lightText": [48, 48, 48],
+    "darkText": [255, 255, 255],
+    "success": [5, 231, 35],
+    "failure": [212, 3, 3]
+  },
+  
+  "strings": {
+    "appTagline": "Happy New Year! 🎊🎆",
+    "welcomeMessage": "Welcome to 2026!",
+    "dashboardGreeting": "Cheers to New Beginnings!",
+    "promotionalBanner": "🎉 New Year, New Opportunities - Start Fresh! 🥂",
+    "footerMessage": "Wishing you success and prosperity in the new year",
+    "notificationTitle": "🎊 New Year Special",
+    "buttonTextPrimary": "Start Fresh",
+    "emptyStateMessage": "New year, new inventory! Let's get started! 🎆",
+    "successToast": "Cheers! Changes saved for the new year! 🥂✨"
+  }
+}
