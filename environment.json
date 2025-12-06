@@ -1,0 +1,36 @@
+{
+  "theme_name": "World Environment Day",
+  "version": "1.0.0",
+  "description": "Celebrate nature with earth-friendly green theme",
+  "created_at": "2025-05-20T00:00:00Z",
+  "valid_from": "2026-06-01T00:00:00Z",
+  "valid_until": "2026-06-07T23:59:59Z",
+  "is_seasonal": true,
+  
+  "colors": {
+    "white": [255, 255, 255],
+    "black": [0, 0, 0],
+    "themeMain": [46, 125, 50],
+    "themeAlternate": [76, 175, 80],
+    "themeBright": [129, 199, 132],
+    "themeDark": [27, 94, 32],
+    "lightBackground": [232, 245, 233],
+    "darkBackground": [27, 94, 32],
+    "lightText": [48, 48, 48],
+    "darkText": [255, 255, 255],
+    "success": [5, 231, 35],
+    "failure": [212, 3, 3]
+  },
+  
+  "strings": {
+    "appTagline": "Happy Environment Day! 🌍🌱",
+    "welcomeMessage": "Celebrate Nature with Abunwasi",
+    "dashboardGreeting": "Think Green!",
+    "promotionalBanner": "🌿 Go Green - Special Eco-Friendly Offers! 🌎",
+    "footerMessage": "Together we can make a difference for our planet",
+    "notificationTitle": "🌍 Environment Day",
+    "buttonTextPrimary": "Go Green",
+    "emptyStateMessage": "Start your sustainable inventory journey! 🌱",
+    "successToast": "Saved successfully! Every action counts! 🌿"
+  }
+}
