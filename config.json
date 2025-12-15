@@ -18,7 +18,7 @@
       "description": "Christmas theme",
       "is_seasonal": true,
       "valid_from": "2025-12-14T00:00:00Z",
-      "valid_until": "2025-12-25T23:59:59Z",
+      "valid_until": "2025-12-25T23:59:59Z"
     },
     {
       "id": "halloween_theme",
