@@ -24,5 +24,16 @@
     "success": [5, 231, 35],
     "failure": [212, 3, 3]
   },
+  "strings": {
+    "appTagline": "Happy Halloween! 🎃👻",
+    "welcomeMessage": "Spooky greetings from the shadows",
+    "dashboardGreeting": "Boo! Ready to haunt?",
+    "promotionalBanner": "👻 Frighteningly Good Deals - Limited Time Offers! 🎃",
+    "footerMessage": "Wishing you a spook-tacular Halloween season",
+    "notificationTitle": "🎃 Halloween Special 🎃",
+    "buttonTextPrimary": "Enter if You Dare",
+    "emptyStateMessage": "No items yet - Time to stock up for the haunting season! 👻",
+    "successToast": "🎃 Boo-yah! Changes saved successfully! 👻"
+  },
   "additional_notes": "Halloween theme with orange and purple color scheme"
 }
