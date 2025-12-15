@@ -7,22 +7,22 @@
   "valid_until": "2025-12-31T23:59:59Z",
   "is_seasonal": true,
   "colors": {
-    "white": "#FFFFFF",
-    "black": "#000000",
+    "white": [255, 255, 255],
+    "black": [0, 0, 0],
     
-    "themeMain": "#FF5722",
-    "themeAlternate": "#9C27B0",
-    "themeBright": "#FF9800",
-    "themeDark": "#4A148C",
+    "themeMain": [255, 87, 34],
+    "themeAlternate": [156, 39, 176],
+    "themeBright": [255, 152, 0],
+    "themeDark": [74, 20, 140],
     
-    "lightBackground": "#FFF8E1",
-    "darkBackground": "#311B92",
+    "lightBackground": [255, 248, 225],
+    "darkBackground": [49, 27, 146],
     
-    "lightText": "#5D4037",
-    "darkText": "#FFFFFF",
+    "lightText": [93, 64, 55],
+    "darkText": [255, 255, 255],
     
-    "success": "#4CAF50",
-    "failure": "#F44336"
+    "success": [5, 231, 35],
+    "failure": [212, 3, 3]
   },
   "additional_notes": "Halloween theme with orange and purple color scheme"
 }
