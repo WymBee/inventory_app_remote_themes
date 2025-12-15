@@ -5,22 +5,22 @@
   "created_at": "2025-01-15T00:00:00Z",
   "is_always_available": true,
   "colors": {
-    "white": "#FFFFFF",
-    "black": "#000000",
+    "white": [255, 255, 255],
+    "black": [0, 0, 0],
     
-    "themeMain": "#64B5F6",
-    "themeAlternate": "#4FC3F7",
-    "themeBright": "#29B6F6",
-    "themeDark": "#0D47A1",
+    "themeMain": [100, 181, 246],
+    "themeAlternate": [79, 195, 247],
+    "themeBright": [41, 182, 246],
+    "themeDark": [13, 71, 161],
     
-    "lightBackground": "#121212",
-    "darkBackground": "#000000",
+    "lightBackground": [18, 18, 18],
+    "darkBackground": [0, 0, 0],
     
-    "lightText": "#E0E0E0",
-    "darkText": "#FFFFFF",
+    "lightText": [48, 48, 48],
+    "darkText": [255, 255, 255],
     
-    "success": "#69F0AE",
-    "failure": "#FF8A80"
+    "success": [5, 231, 35],
+    "failure": [212, 3, 3]
   },
   "additional_notes": "Enhanced dark theme with better accessibility contrast"
 }
